@@ -1,1 +1,1 @@
-# Data structures implemented in various programing languages
+# Data structures implemented in GO programming language
